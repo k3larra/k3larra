@@ -1,0 +1,20 @@
+/*This is a CSS comment here // doesn't work for comments*/
+body{
+  background-color: FloralWhite ;
+  color: DarkOrange;
+  font-size: 2em;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.ball{
+  border:red 2px solid;
+  background-color:red;
+  width:30px;
+  height:30px;
+  position: fixed;
+  border-radius: 50%;
+  top:200px;
+  left:200px;
+  font-size: 12px;
+}
