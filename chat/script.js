@@ -8,6 +8,7 @@ function button10() {
         console.log("Logged in");
     }).catch(function(error) {
         console.log("Unsuccessful login");
+          console.log(error.message);
     });
 }
 //Logout
