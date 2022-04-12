@@ -11,10 +11,3 @@ function onDocumentReady() {
   console.log('Document ready.');
 
 }
-
-function remove(){
-  console.log("remove");
-  /*database.ref("/medea_2").remove();
-  database.ref("/medea_3").remove();
-  database.ref("/floor_5").remove();*/
-}
